@@ -9,6 +9,7 @@
     "description": "This is where all of the Olympus Online announcements are.",
     "logo": "http://i.imgur.com/I7udmMf.png",
     "cover": "http://i.imgur.com/0cc297f.png",
+    "postsPerPage": "5",
     "disqus": "OlympusOnline"
   },
   "socialnetwork": {
