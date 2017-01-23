@@ -4,6 +4,12 @@
     "repositoryName": "announcements",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Olympus Online 2",
+    "description": "This is where all of the Olympus Online announcements are.",
+    "disqus": "OlympusOnline"
+  },
+  "socialnetwork": {},
   "theme": {
     "name": "uno-zen"
   }
