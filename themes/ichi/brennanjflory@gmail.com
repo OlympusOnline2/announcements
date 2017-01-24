@@ -66,7 +66,6 @@
             <div class="inner">
                 <section class="published">Proudly published by <a href="http://dakotamaatman.com/" target="_blank">Dakota Maatman</a></section>
                  <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
-                 <section class="theme-author">Co-developed by Brennan Flory</section>
             </div>
         </footer>
     </div>
