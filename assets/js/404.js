@@ -398,7 +398,7 @@
     initGameStart();
   });
   document.getElementById("home").onclick = function () {
-    location.href = "http://www.dakotamaatman.com";
+    location.href = "https://olympusonline2.com";
   };
 
   function initGameStart() {
