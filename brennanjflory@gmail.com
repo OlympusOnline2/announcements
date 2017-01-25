@@ -13,7 +13,7 @@
 
     <!-- CSS/JS stuff -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link href="https://github.com/OlympusOnline2/announcements/blob/gh-pages/assets/css/404.css" type="text/css" rel="stylesheet">
+    <link href="https://github.com/OlympusOnline2/announcements/assets/css/404.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
   <body>
