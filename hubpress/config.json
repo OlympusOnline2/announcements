@@ -7,8 +7,8 @@
   "site": {
     "title": "Olympus Online 2",
     "description": "This is where all of the Olympus Online announcements are.",
-    "logo": "http://i.imgur.com/I7udmMf.png",
-    "cover": "http://i.imgur.com/0cc297f.png",
+    "logo": "https://i.imgur.com/f3fm0Ke.png",
+    "cover": "https://i.imgur.com/0cc297f.png",
     "postsPerPage": "5",
     "disqus": "OlympusOnline"
   },
